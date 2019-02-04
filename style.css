@@ -1,0 +1,44 @@
+
+.navbar-default{
+  background: #85858144;/*2.---修改整个导航条的背景*/
+  border:transparent;/*  ----因为navbar-default是默认有border的，所以需将border去掉*/
+}
+
+.header{
+    font-family:Lobster;
+    color:#156cb4e5;
+  }
+  .motto{
+    color:#a96360;
+    font-family:'Indie Flower', cursive;
+  }
+
+
+body{
+    margin-top:10px;
+   
+    padding-left: 20px;
+    
+  }
+  
+  
+  .content{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1em
+    
+    
+  }
+  
+  
+  ul,p{margin:0;padding:0;}
+            li{list-style:none;}
+            .box{width:500px;margin:100px auto;}
+            .box .img{float:left;}
+            .box .img img{width:100px;height:100px;}
+            .box .list{float:left;width:200px;margin-left:20px;display:inline;}
+            .box .list li{line-height:24px;font-size:16px;}
+            
+           .p{ 
+             font-family: 'Open Sans', sans-serif;}
+  
+  
